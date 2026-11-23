@@ -1,4 +1,4 @@
-# 증명한컷 개인정보 처리방침
+# 한컷증명 개인정보 처리방침
 
 - https://ssbmel.github.io/idoneshot-privacy/privacy.html
 
